@@ -71,7 +71,7 @@
 <!-- 添加动态数据卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NobodyWant2Try&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NobodyWant2Try&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NobodyWant2Try&theme=radical" width="33%" />
 
 </div>
 
