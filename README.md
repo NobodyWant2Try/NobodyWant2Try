@@ -21,9 +21,9 @@
 
 <!-- 动态访问计数器 - 增强效果 -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+    <img src="https://komarev.com/ghpvc/?username=NobodyWant2Try&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/NobodyWant2Try?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/NobodyWant2Try?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
   <p>
