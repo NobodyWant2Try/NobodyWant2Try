@@ -35,11 +35,8 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  About Me
+  About Me: [This](https://nobodywant2try.github.io/) is my webpage.
 </h2>
-
-[This](https://nobodywant2try.github.io/) is my webpage.
-
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
